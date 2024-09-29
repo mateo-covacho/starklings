@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+8dd526ae563ded02cfaaf65d706255f1ef9a4578 refs/remotes/origin/blablalf-main
+0df704646a5d0e1f618823fed972d0bed4f57bad refs/remotes/origin/cairo-2.6.2
+f8630404b8eaf2ac12d17dddeda95916d0e075e9 refs/remotes/origin/ci-rust-1.76
+a66d83e71ea19fe9d8527d17b714e2763d765816 refs/remotes/origin/error-177
+3b77a381d4125863fe80392549d168e416a8a469 refs/remotes/origin/improved-logs
+5927a8b2be3737b0e857b752da0ef7f5c293d83e refs/remotes/origin/main
+b4735e0f56872433ae8ec12569780a25b663b39e refs/remotes/origin/no-empty-output
+6a52f905290fa3071e580b8034720aa578a9c2c1 refs/remotes/origin/readme-exercise-contrib
+38d706271717ecc240dff7eb3b72b149ebe051d5 refs/remotes/origin/runner-rename
+98099f4b62f46f1716250e68ebde0a4ec01ffacf refs/remotes/origin/scarb
+5902b3650998ccdc51df004c6c1602728fecd374 refs/remotes/origin/scarb-cairo-run
+490b46c409f5950c4d2857ba1ea7a378d345773d refs/remotes/origin/shramee-patch-1
